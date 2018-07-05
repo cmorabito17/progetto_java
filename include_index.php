@@ -9,8 +9,7 @@
             <div id="message">
             </div>
         </div>
-        <ul id="pagination"></ul>
-    </div>
+       </div>
 
     <!-- Modal -->
     <div id="myModal" class="modal fade" role="dialog">
