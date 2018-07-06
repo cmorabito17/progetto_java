@@ -7,11 +7,7 @@
                 <img src="img/loading.gif" />
             </div>
             <div id="message">
-            </div>
-        </div>
-        <ul id="pagination"></ul>
-    </div>
-
+         </div>
     <!-- Modal -->
     <div id="myModal" class="modal fade" role="dialog">
         <div class="modal-dialog">
